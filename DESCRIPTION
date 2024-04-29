@@ -1,0 +1,10 @@
+Package: rladies
+Title: Demo for the RLadies Paris
+Version: 0.0.0.9000
+Authors@R: 
+    person("Maria Paula", "Caldas", , "mpaulacaldas@gmail.com", role = c("aut", "cre"))
+Description: A demo made live.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
