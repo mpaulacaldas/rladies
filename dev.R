@@ -6,3 +6,4 @@ use_git()
 
 use_build_ignore("dev.R")
 
+use_r("year-progress")
